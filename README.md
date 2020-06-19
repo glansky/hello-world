@@ -1,3 +1,3 @@
 # hello-world
-Traditional repository
-I made this changes for my training.
+This is a traditional repository.
+I made some changes here for my training.
